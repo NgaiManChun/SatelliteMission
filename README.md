@@ -5,6 +5,8 @@ Unityで制作した3Dアクションシューティングゲームです。
 プレイヤーは自機の周囲を飛び回る「サテライトライフル」を駆使しながら、
 敵軍を殲滅し、自軍レーダーを防衛します。
 
+実行ファイルは[こちら(https://drive.google.com/file/d/1hvP8K220n4-ZvYPq6GzIuPjMlpQGE0No/view?usp=sharing)]
+
 # 操作方法
 
 ## キーボード・マウス
